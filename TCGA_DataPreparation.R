@@ -7,12 +7,20 @@ setwd("C:/Users/MSI-NB/Jupyter Code/TCGA_R")
 
 # Load JSON metadata
 json_data <- jsonlite::fromJSON("metadata.cart.2024-11-08.json")
+View(json_data)
+
 sample_ids <- sapply(json_data$associated_entities, function(x) x[, 1])
+sample_ids[1:10]
+
 file_sample <- data.frame(sample_id = sample_ids, file_name = json_data$file_name)
+View(file_sample)
 
 # List count files
 count_files <- list.files('gdc_download_20241108_123324.776410/', pattern = '*.tsv', recursive = TRUE)
+count_files[1:10]
+
 count_file_names <- sapply(strsplit(count_files, split = '/'), function(x) x[2])
+count_file_names[1:10]
 
 # Initialize main matrix with 60660 rows (based on assumption)
 matrix <- data.frame(matrix(nrow = 60660, ncol = 0))
@@ -51,7 +59,10 @@ for (i in seq_along(count_files)) {
 # Extract gene names and types from the first file
 initial_data <- read.delim(file.path("gdc_download_20241108_123324.776410", count_files[1]), fill = TRUE, header = FALSE, row.names = 1)
 gene_names <- initial_data[-c(1:6), 1]
+gene_names[1:10]
+
 gene_types <- initial_data[-c(1:6), 2]
+gene_types[1:10]
 
 # Confirm gene_names and gene_types lengths match
 stopifnot(length(gene_names) == length(gene_types))
