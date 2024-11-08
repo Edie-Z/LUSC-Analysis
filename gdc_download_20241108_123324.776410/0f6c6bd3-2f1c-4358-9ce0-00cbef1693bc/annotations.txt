@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-dc4880ad-131a-50e6-91be-6408f9ca3a35	742	case	1f11de87-a5fe-49fd-80c1-e279b2bc69de	Prior malignancy	Notification	2010-10-11T00:00:00	Approved	[intgen.org]: Subject has Hx of prior malignancy
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e00c8551b42cbe7099066acd0a3b545cfa77d9375313decc439856bddc9cad7
+size 282

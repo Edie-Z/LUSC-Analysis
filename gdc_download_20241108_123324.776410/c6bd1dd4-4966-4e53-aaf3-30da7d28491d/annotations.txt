@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-ef36b235-9903-5360-84be-f8425edde1f8	11959	case	705a4688-f10f-4e6a-aed9-6efc3b3b9989	Neoadjuvant therapy	Notification	2012-11-10T00:00:00	Approved	Patient received neo-adjuvant carboplatin, taxol, and cisplatin prior to resection of TCGA tumor
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bd678043ff47c0e40152fb5d07b195d347b51856ac73cc3be936a759c88b0cc
+size 335

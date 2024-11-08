@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-a172b257-ccbb-55a0-a16f-48115cd57753	11727	case	37f5457e-21d9-4b79-95d5-ded6f2e43087	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy R LUAD. No systemic chemotherapy or radiaiton.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58cc6bce658059017f4226b505be34010e3315fd372be0822311519218f2777
+size 299

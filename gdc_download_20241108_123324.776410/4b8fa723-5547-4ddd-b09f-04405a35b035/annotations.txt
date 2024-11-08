@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-49e9f868-bd53-59ab-a673-30239352fd06	11752	case	9ee64a87-7224-461c-94da-29710d73164f	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy skin cancer. No systemic chemotherapy or radiation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:920a0df6edf26664d169c54d0c5df9f778b15914b6239e9f47e4d1f92ff578d4
+size 304

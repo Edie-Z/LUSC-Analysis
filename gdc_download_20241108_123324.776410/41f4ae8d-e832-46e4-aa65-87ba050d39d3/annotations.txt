@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-0bae77b2-92d4-5d28-adc6-364dab444bd8	11751	case	399c936e-ba68-4040-98d4-917a87dad603	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy melanoma of the R eye. No systemic chemotherapy or radiation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12a8ae6b2df3ef203927227691ccc3b4da1f130b4d17593faadd823a5e0a5720
+size 314

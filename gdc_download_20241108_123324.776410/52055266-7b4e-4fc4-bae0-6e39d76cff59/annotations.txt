@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-adb72207-762b-506a-888d-efec13980126	11720	case	6ee6ca0a-8702-480d-b2d1-9224e7dd9211	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy of the lip and nose. No systemic chemotherapy or radiation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd9ad5f9601868f6b191c5fdd0e43fef4edef9a9f75816b0d8967d00239af869
+size 312

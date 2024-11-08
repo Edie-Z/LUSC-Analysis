@@ -1,2 +1,3 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-1aad0292-d4ba-5e63-a7c3-6771dfd8845d	11754	case	283af87a-f962-47ab-8a7b-4fcd7e45cdf6	Item does not meet study protocol	Notification	2012-10-31T00:00:00	Approved	Subjects history of prior malignancies is unknown, which does not meet study protocol criteria.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8e0d736b04a43fb0a1363d3fb816c07b90c48f8b0a0c5e7e81c1716f8c8ef6
+size 348
