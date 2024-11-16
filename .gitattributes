@@ -1,3 +1,0 @@
-TCGA_LUSC_TPM.txt filter=lfs diff=lfs merge=lfs -text
-*.RData filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
